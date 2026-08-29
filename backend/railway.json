@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "root": "backend"
+}
